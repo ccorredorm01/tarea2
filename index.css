@@ -1,0 +1,23 @@
+/*index.css*/
+html {background-color: lightsteelblue;}
+
+h1 {text-align: center; 
+    color:midnightblue
+}
+
+h2,h3 {color:darkslateblue}
+
+body {margin: 5em}
+
+p {
+    text-align: justify; 
+    font-family: sans-serif; 
+    font-size: 16px;
+}
+a:link { color:green; text-decoration: none }
+
+a:visited { color: red;}
+
+a:hover { color:blue; font-weight: bold }
+
+a:active { color:chartreuse; }
