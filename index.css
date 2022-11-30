@@ -7,17 +7,16 @@ h1 {text-align: center;
 
 h2,h3 {color:darkslateblue}
 
-body {margin: 5em}
-
-p {
-    text-align: justify; 
-    font-family: sans-serif; 
+body {margin: 5em;
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 16px;
 }
-a:link { color:green; text-decoration: none }
+
+a:link { color:green;}
 
 a:visited { color: red;}
 
-a:hover { color:blue; font-weight: bold }
+a:hover { color:blue;}
 
-a:active { color:chartreuse; }
+a:active { color:deeppink;}
